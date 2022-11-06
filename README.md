@@ -14,13 +14,17 @@ Description
     
   <img src="https://user-images.githubusercontent.com/52263269/200189769-3f7dbc22-9f38-44ae-9436-a378bbbeb952.png" width="90%"></img>      
 
+#### - KOGPT2
+  - GPT series of Korean version
+  - Pretrained with Korean Wiki, news, corpus etc.
+
 #### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 Contents
 =============
 
 #### - KoGPT2 zero-shot learning
-  - KoGPT2 implementation with zero-shot learning for text classification
+  - [KoGPT2 implementation with zero-shot learning for text classification](https://github.com/qbxlvnf11/GPT-series/blob/main/KoGPT2-zero-shot-learning.ipynb)
   
 Datasets
 =============
@@ -42,9 +46,15 @@ References
 }
 ```
 
-#### - GPT-2 github
+#### - GPT-2
 
 https://github.com/openai/gpt-2
+
+#### - KoGPT2
+
+https://github.com/SKT-AI/KoGPT2
+
+https://www.kaggle.com/code/ninetyninenewton/zero-shot-sentiment-classification-using-gpt-2/notebook
 
 Author
 =============
