@@ -24,7 +24,7 @@ Contents
 =============
 
 #### - KoGPT2 zero-shot learning
-  - [KoGPT2 implementation with zero-shot learning for text classification](https://github.com/qbxlvnf11/GPT-series/blob/main/KoGPT2-zero-shot-learning.ipynb)
+  - [zero-shot learning of KoGPT2 for text classification](https://github.com/qbxlvnf11/GPT-series/blob/main/KoGPT2-zero-shot-learning.ipynb)
   
 Datasets
 =============
